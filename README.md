@@ -59,8 +59,8 @@
 | Project | Stack | What it does |
 |---|---|---|
 | **[Gym Management SaaS](https://github.com/AyaHOSRY/Gym-management-SaaS)** | Laravel, MySQL, Redis, Sanctum, Queues | Multi-tenant SaaS for gym owners — tenant isolation, subscription lifecycle, RBAC, RESTful APIs, and background jobs for emails and reminders. |
-| **[Payment Example](https://github.com/AyaHOSRY/payment-example)** | Laravel, Payment Gateway | _(add your description here)_ |
-| **[Laravel Job Board API](https://github.com/AyaHOSRY/laravel-job-board-api)** | Laravel, MySQL, REST API | _(add your description here)_ |
+| **[Payment Example](https://github.com/AyaHOSRY/payment-example)** | Laravel, Payment Gateway | Demonstrates payment integration in Laravel — handling transactions, callbacks, and payment flow with a real gateway |
+| **[Laravel Job Board API](https://github.com/AyaHOSRY/laravel-job-board-api)** | Laravel, MySQL, REST API | RESTful API for a job board platform — job listings, applications, filtering, and employer/candidate management. |
 
 ---
 
