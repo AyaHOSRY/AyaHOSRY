@@ -57,11 +57,11 @@
  
 ### 🚀 Featured Projects
 
-> Production-focused projects showcasing scalable architecture, SaaS design, and backend engineering practices.
+> *(Pinned below — click to explore)*
 
 | Project | Stack | What it does |
-|---|---|---|
-| **[Gym Management SaaS (Multi-Tenant)]** | Laravel, MySQL, Redis, Sanctum, Queues | Designed and built a scalable multi-tenant SaaS platform for gym owners with tenant isolation, subscription lifecycle management, RBAC (roles & permissions), RESTful APIs, and background job processing for emails and reminders. |
+|---|---|---|---|
+| **[Gym Management SaaS (Multi-Tenant)]** | Laravel, MySQL, Redis, Sanctum, Queues | Designed and built a scalable multi-tenant SaaS platform for gym owners with tenant isolation, subscription lifecycle management, RBAC (roles & permissions), RESTful APIs, and background job processing for emails and reminders. | https://github.com/AyaHOSRY/Gym-management-SaaS |
 
 
 ---
