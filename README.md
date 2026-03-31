@@ -48,7 +48,7 @@
 ```
 📍 Egypt — open to Gulf-based & remote opportunities
 💬 Languages: Arabic (native) · English (professional) · German (learning)
-🎯 Targeting: Backend Developer roles in the Gulf region
+🎯 Targeting: Backend Developer roles in the Gulf region and Egypt
 🧠 Interests: Clean architecture · API design · System thinking
 ```
 
