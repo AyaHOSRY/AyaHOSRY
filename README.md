@@ -22,7 +22,7 @@
 
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
 
 **Tools & Ecosystem**
 ![Filament](https://img.shields.io/badge/Filament_v3-FDAE4B?style=flat-square&logo=laravel&logoColor=white)
