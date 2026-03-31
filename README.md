@@ -59,7 +59,7 @@
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/AyaHOSRY](https://www.linkedin.com/in/aya-elhosary-ab4366352/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-elhosary-ab4366352/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayaahmedelhosary@gmail.com)
 
 </div>
